@@ -76,7 +76,7 @@
               
             </div>
            
-            {{-- {!! $all_customer->links() !!} --}}
+            {!! $all_customer->links() !!}
             <!-- /.card -->
           </div>
           <!--/.col (right) -->
